@@ -17,6 +17,7 @@ namespace MISPIS_LAB.Data
         public DbSet<Author> Authors { get; set; }
         public DbSet<Incident> Incidents { get; set; }
         public DbSet<Main> Mains { get; set; }
+        public DbSet<Report> Reports { get; set; }
         public DbSet<Models.Type> Types { get; set; }
     }
 }
