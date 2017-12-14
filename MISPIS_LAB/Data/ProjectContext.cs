@@ -18,5 +18,7 @@ namespace MISPIS_LAB.Data
         public DbSet<Incident> Incidents { get; set; }
         public DbSet<Main> Mains { get; set; }
         public DbSet<Models.Type> Types { get; set; }
+        public DbSet<Log> Logs { get; set; }
+        public DbSet<Report> Reports { get; set; }
     }
 }

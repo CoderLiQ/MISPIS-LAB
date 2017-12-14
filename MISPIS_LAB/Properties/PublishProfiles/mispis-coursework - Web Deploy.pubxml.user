@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF6FvLqPu2ke3W/efimXRRwAAAAACAAAAAAAQZgAAAAEAACAAAACJ0D7OB88Oi+OVM7T4UZJtfccbwDGs/2Tgd1teBTwTSQAAAAAOgAAAAAIAACAAAADbQzW0GH9Gy/C3KCI86BXJ3YIMpqJJ94hyHdsq1fLzfIAAAABxatuLTJgbzVKWvDON0bqLzg1JLawIv8rU4VDBbB5RZ1HwYo1VlDzsKpLZy9RVBuvsQk4WElY9f13wAw8Aqgjjc73UWiKuJuMKP3tZvpCfXHys8/NXo7UVZCvFo+sYZbeYfbDQ47Zm4+7/7EGwSF80zLoWsTxWVRif5bKgeTs8/UAAAADBk4zjY32RjVmBcm/f3K4L4CNTGryvW+h1uG9fI0CAtTiEjOUgaVe+BAp33JQXk6jx8CSWLLmhOpBFhDoXSx0w</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:mispis-courseworkdbserver.database.windows.net,1433;Initial Catalog=mispis-coursework_db;User Id=sqladmin@mispis-courseworkdbserver;Password=Rmv00+L_28</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

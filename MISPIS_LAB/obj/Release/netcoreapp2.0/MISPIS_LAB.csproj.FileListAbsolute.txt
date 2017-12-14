@@ -1,0 +1,11 @@
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\bin\Release\netcoreapp2.0\MISPIS_LAB.deps.json
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\bin\Release\netcoreapp2.0\MISPIS_LAB.runtimeconfig.json
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\bin\Release\netcoreapp2.0\MISPIS_LAB.runtimeconfig.dev.json
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\bin\Release\netcoreapp2.0\MISPIS_LAB.dll
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\bin\Release\netcoreapp2.0\MISPIS_LAB.pdb
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\obj\Release\netcoreapp2.0\MISPIS_LAB.csprojResolveAssemblyReference.cache
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\obj\Release\netcoreapp2.0\MISPIS_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\obj\Release\netcoreapp2.0\MISPIS_LAB.AssemblyInfoInputs.cache
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\obj\Release\netcoreapp2.0\MISPIS_LAB.AssemblyInfo.cs
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\obj\Release\netcoreapp2.0\MISPIS_LAB.dll
+C:\Users\Michael\YandexDisk\Универ\4 курс\OLAP-MISPIS\Курсовая\MISPIS-LAB\MISPIS_LAB\obj\Release\netcoreapp2.0\MISPIS_LAB.pdb
